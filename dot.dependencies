@@ -1,6 +1,7 @@
 [
   {
-    "repository": "device_sony_customization",
+    "repository":  "device_sony_customization",
     "target_path": "device/sony/customization"
+    "branch":      "dot11"
   }
 ]
